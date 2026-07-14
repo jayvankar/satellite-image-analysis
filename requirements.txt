@@ -1,6 +1,6 @@
-torch
+﻿torch
 torchvision
-opencv-python
+opencv-python-headless
 streamlit
 numpy
 pandas
@@ -8,4 +8,4 @@ matplotlib
 seaborn
 scikit-learn
 Pillow
-jupyterpip 
+jupyter
